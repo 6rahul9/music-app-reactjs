@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Bringing Music to Life with React.js and React Icons
+<h2>Bringing Music to Life with React.js and React Icons</h2>
 
 My love for music and my passion for web development collided in the creation of my latest project: a dynamic music webpage built with React.js and React Icons. I envisioned a platform that would not only let users listen to their favorite tunes but also provide a visually captivating and engaging experience.
 
